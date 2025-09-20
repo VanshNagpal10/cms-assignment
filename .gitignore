@@ -1,0 +1,36 @@
+# Dependencies
+node_modules/
+*/node_modules/
+
+# Environment variables
+.env
+*/.env
+.env.local
+*/.env.local
+
+# Build outputs
+.next/
+*/.next/
+dist/
+*/dist/
+build/
+*/build/
+
+# Database
+*.db
+
+# Logs
+*.log
+npm-debug.log*
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+
+# Payload generated files
+cms/payload-types.ts
+cms/generated-schema.graphql
