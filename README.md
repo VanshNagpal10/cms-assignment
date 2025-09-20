@@ -189,7 +189,3 @@ No environment variables required (uses localhost:3000 for API calls)
 - **Backend**: Payload CMS, Node.js, TypeScript, MongoDB
 - **Frontend**: Next.js 14, React, TypeScript, Tailwind CSS
 - **Tools**: Git, npm, VS Code
-
-## License
-
-This project is created for educational/assignment purposes.
