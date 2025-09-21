@@ -9,6 +9,7 @@ export const BlogPosts: CollectionConfig = {
   access: {
     read: () => true,
   },
+  
   fields: [
     {
       name: 'title',
